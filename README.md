@@ -21,7 +21,8 @@
 <img align="left" alt="C++" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/459px-ISO_C%2B%2B_Logo.svg.png" />
 <img align="left" alt="Python" width="26px" src="https://w7.pngwing.com/pngs/266/560/png-transparent-python-computer-icons-programmer-javascript-programming-language-python-logo-angle-text-logo.png" />
 <img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-
+<img align="left" alt="Kubernetes" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Kubernetes_logo_without_workmark.svg/2109px-Kubernetes_logo_without_workmark.svg.png" />
+<img align="left" alt="Docker" width="26px" src="https://icon2.cleanpng.com/20180527/aye/kisspng-docker-github-node-js-mongodb-computer-software-5b0a34af260146.0636816215273955031557.jpg" />
 
 
 
