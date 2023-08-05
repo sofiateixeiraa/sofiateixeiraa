@@ -1,7 +1,7 @@
 ### Hello, I'm Sofia 👋
 
 
-## I'm a final year Engineering student with a passion for DevOps! 🔌 💻
+## I'm an Electrical Engineer with a strong interest in the cloud world and a passion for innovation! 🔌 💻
 
 ### Connect with me:
 [<img align="left" alt="SofiaTeixeira | LinkedIn" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />][linkedin]
